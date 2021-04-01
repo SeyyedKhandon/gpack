@@ -1,0 +1,47 @@
+{
+  "name": "gpack",
+  "version": "0.1.0",
+  "publisher": "SeyyedKhandon",
+  "author": "SeyyedMahdi Hassanpour",
+  "displayName": "Git Extension Pack (GPack)",
+  "description": "Git Essentials Extension Pack for Visual Studio Code (GPack)",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#47B784",
+    "theme": "dark"
+  },
+  "icon": "logo.jpg",
+  "repository": {
+    "url": "https://github.com/SeyyedKhandon/gpack.git"
+  },
+  "homepage": "https://github.com/SeyyedKhandon/gpack.git",
+  "bugs": {
+    "url": "https://github.com/SeyyedKhandon/gpack.git/issues"
+  },
+  "keywords": [
+    "programming",
+    "web",
+    "developer experience",
+    "git Extension Pack",
+    "conventional commit",
+    "extension pack",
+    "git file history",
+    "git graph",
+    "git lens",
+    "local history"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "engines": {
+    "vscode": "^1.54.3"
+  },
+  "extensionPack": [
+    "vivaxy.vscode-conventional-commits",
+    "pomber.git-file-history",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "micnil.vscode-checkpoints"
+  ]
+}

@@ -1,0 +1,45 @@
+# Visual Studio Code Git Extension Pack (GPack)
+
+### GPack
+
+Git Essentials Extension Pack for Visual Studio Code (GPack)
+
+> These are some of my favorite git extensions which makes `VSCode` git management like `WebStorm`.
+
+
+
+**Notes**:
+
+- You can use `Local History` instead of `Checkpoints`, it has a closer experience to `Webstorm` `Local History`, but it can be annoying because will create anywhere a `.history` folder.
+  - [Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history) - Save files into local history like `Webstorm` localhistory, to have a checkpoints on each save change which you are working.
+  -
+
+## Extensions Included
+
+- 1- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
+
+- 2- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+
+- 3- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
+
+- 4- [Git File History](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history) - Modern, fast and intuitive tool for browsing the history and files in any git repository
+
+- 5- [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits) - 💬Conventional Commits for VSCode.
+
+- 6- [Checkpoints](https://marketplace.visualstudio.com/items?itemName=micnil.vscode-checkpoints) - Checkpoints(using `ctrl+alt+s`) used in between commits for keeping a local short-term history of work in progress files, like bookmarks in you undo-stack.
+
+## Relevant Links
+
+- [Github](https://github.com/SeyyedKhandon/gpack)
+- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SeyyedKhandon.gpack)
+
+## Generate Package
+
+You can customize this pack via forking and changing it in the `package.json` and use these instructions to generate a new one:
+
+> If you don't have [node.js](https://nodejs.org/en/), first download and install the latest version. then you have to install `vsce` via `npm install -g vsce`.
+
+1. `vsce package`
+2. `vsce publish`
+
+**Enjoy!**
