@@ -1,6 +1,6 @@
 {
   "name": "gpack",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "SeyyedKhandon",
   "author": "SeyyedMahdi Hassanpour",
   "displayName": "Git Extension Pack (GPack)",
@@ -10,7 +10,7 @@
     "color": "#47B784",
     "theme": "dark"
   },
-  "icon": "logo.jpg",
+  "icon": "assets/gpack.jpg",
   "repository": {
     "url": "https://github.com/SeyyedKhandon/gpack.git"
   },
