@@ -1,3 +1,7 @@
+<a href="https://marketplace.visualstudio.com/items?itemName=SeyyedKhandon.gpack">
+  <img style="margin:auto;" src="./assets/gpack.jpg" width="200px" />
+</a>
+
 # Visual Studio Code Git Extension Pack (GPack)
 
 ### GPack
@@ -29,7 +33,8 @@ Git Essentials Extension Pack for Visual Studio Code (GPack)
 ## Recommended Extension pack
 
 <a href="https://marketplace.visualstudio.com/items?itemName=SeyyedKhandon.zpack">
-<img src="https://seyyedkhandon.gallerycdn.vsassets.io/extensions/seyyedkhandon/zpack/1.0.9/1620752372102/Microsoft.VisualStudio.Services.Icons.Default" width="300"/></a>
+  <img style="margin:auto;" src="./assets/zpack.jpg" width="200px" />
+</a>
 
 [ZPack](https://marketplace.visualstudio.com/items?itemName=SeyyedKhandon.zpack) is An Opinionated collection of the `best` and `most` used extensions for Web Developers in VSCode which has Better `Developer Experience(DX)` and `load time` in Mind.
 
