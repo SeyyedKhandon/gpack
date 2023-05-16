@@ -1,3 +1,6 @@
-.vscode
-*.vsix
 .history 
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
